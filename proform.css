@@ -1,0 +1,89 @@
+body{
+    background-color:burlywood;
+}
+h5{
+    
+    font-style: italic ;
+    background-color:palevioletred;
+    text-decoration: cadetblue;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    font-weight:20 px ;
+}
+p{
+    font-style: unset;
+}
+.image{
+      align-content: center;
+}
+#above{
+    background-color: white ;
+}
+.img_link{
+    background-color:palevioletred ;
+    padding: 10px 10px 10px 10px ;
+    margin: 10px 10px 10px 10px ;
+    overflow:"auto";
+    border:1px bold ;
+}
+.img_link1{
+     color:"black";
+     padding: 1px 1px 1px 1px;
+     display: -webkit-inline-box;
+}
+#title
+{
+    background-color:palevioletred ;
+    padding: 10px 10px 10px 10px ;
+    margin: 5px 5px 5px 5px ;
+    overflow:"auto";
+    border:1px bold ;
+    display:inline-block;
+    width: 1200px;
+}
+.title1
+{
+    color:black;
+    padding: 1px 1px 1px 1px;
+    float:left;
+    margin: none;
+ }
+.title2
+{
+    color:"black";
+    padding: 1px 1px 1px 1px;
+    float:right;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuw_C9TmXXBy-9q5UZdv3jxslpK9qn_bBmiA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+h3{
+    color:black;
+    font-size: 30px;
+
+}
+#button{
+     background-color:palevioletred;
+     color:black;
+     padding: 3px;
+     border: bold;
+     margin: 5px;
+}
+#name{
+     text-transform: uppercase;
+     color:black;
+     font-size: 15px;
+     font-style: normal;
+     padding: 3px;
+
+
+
+}
